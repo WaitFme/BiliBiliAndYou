@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">比妮比妮</string>
+
+    // Screens
+    <string name="splash_screen">SplashScreen</string>
+    <string name="main_screen">MainScreen</string>
+    <string name="details_screen">DetailsScreen</string>
+    <string name="login_screen">LoginScreen</string>
+    <string name="search_screen">SearchScreen</string>
+
+    // Pagers
+    <string name="home_pager">主页</string>
+    <string name="message_pager">动态</string>
+    <string name="mine_pager">我的</string>
+</resources>

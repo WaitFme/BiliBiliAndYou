@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BiliBili And You</string>
+
+    // Screens
+    <string name="splash_screen">SplashScreen</string>
+    <string name="main_screen">MainScreen</string>
+    <string name="details_screen">DetailsScreen</string>
+    <string name="login_screen">LoginScreen</string>
+    <string name="search_screen">SearchScreen</string>
+
+    // Pagers
+    <string name="home_pager">Home</string>
+    <string name="message_pager">Message</string>
+    <string name="mine_pager">Mine</string>
+</resources>
